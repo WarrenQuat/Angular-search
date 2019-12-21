@@ -1,0 +1,54 @@
+.butt {
+    border: 1px outset rgba(59, 57, 57, 0.959);
+    background-color: rgba(0, 0, 0, 0.534);
+    height:30px;
+    width:30px;
+    cursor:pointer;
+    vertical-align: top;
+ }
+ 
+ .butt:hover {
+    background-color: rgb(223, 206, 27);
+ }
+
+ .is-open{
+   border: 1px outset rgb(201, 201, 201);
+   background-color: rgb(255, 255, 255);
+   height:30px;
+   width:30px;
+   cursor:pointer;
+   vertical-align: top;
+}
+
+.is-finish
+{
+   border: 1px outset rgba(230, 11, 11, 0.979);
+   background-color: rgb(255, 0, 0);
+   height:30px;
+   width:30px;
+   cursor:pointer;
+   vertical-align: top;
+}
+.is-start
+{
+   border: 1px outset rgba(0, 252, 34, 0.979);
+   background-color: rgb(6, 253, 18);
+   height:30px;
+   width:30px;
+   cursor:pointer;
+   vertical-align: top;
+}
+
+.is-visited
+{
+   border: 1px outset rgb(84, 202, 202);
+   background-color: rgb(84, 202, 202);
+   height:30px;
+   width:30px;
+   cursor:pointer;
+   vertical-align: top;
+}
+
+
+
+ 
